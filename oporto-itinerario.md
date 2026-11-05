@@ -44,7 +44,7 @@ Recomendado: **ciudad + Foz**. Volverás a tiempo de la cena y es mejor escenari
 | 13:30 | Comida: **francesinha** (es obligatoria una vez) o mercado. |
 | 15:00 | **Tranvía 1** desde Infante hacia **Foz do Douro** (vintage, muy fotogénico). |
 | 15:30–17:45 | Paseo marítimo de Foz → **Farol de Felgueiras** y Pérgola da Foz. Atardecer sobre el Atlántico. |
-| 18:00 | Vuelta en Uber, ducha, **cena**. |
+| 18:15 | Vuelta en Uber (~25 min) a Alexandre Herculano, ducha y **cena a las 20:00**. |
 
 **🎓 Lo que aprendes hoy (solo 4 movimientos de Osmo):**
 1. **Caminar hacia delante** (modo Follow, pasos cortos de "ninja", rodillas flexionadas): Rua das Flores.
@@ -56,14 +56,20 @@ Tip: graba cada movimiento **3 veces** y quédate con la mejor. Clips de 5–8 s
 
 ---
 
-## Sábado 7 · Mañana social antes de irte · Protagonista: 🔵 CÁMARA
+## Sábado 7 · Run club a las 10:00 + salida · Protagonista: 🔵 CÁMARA
+
+**Logística (sin hotel después del check-out):**
+1. **Plan A**: pedir al alojamiento **late check-out (~12:00)** o, al menos, dejar las maletas y usar la ducha al volver. Es lo más cómodo.
+2. **Plan B (maletas)**: consigna por app (**Bounce**, **Radical Storage**, **Nannybag**): reservas un punto cerca de Batalha/São Bento o del punto de quedada del club. Cuesta unos pocos euros por bulto.
+3. **Plan B (ducha)**: gimnasio con **pase de día** o **hostel** que cobre la ducha. Último recurso: toallitas y muda de ropa en una mochila pequeña.
 
 | Hora | Plan |
 |---|---|
-| 9:30 | **Can Run Club Porto**: quedan normalmente los **sábados a las 9:30** para unos **5 km** suaves. Confirma punto de encuentro en su Instagram el jueves. |
-| 11:00 | Ducha, check-out (pregunta si te guardan las maletas). |
-| 11:30 | Brunch + paseo final por Gaia: **bodegas de vino de Oporto** (visita corta con cata) o **teleférico de Gaia**. |
-| — | Salida. |
+| 9:00 | Desayuno ligero, maletas hechas, check-out o maletas a consigna. |
+| 9:40 | Llegar al punto de quedada (confirma la ubicación en el Instagram del club). Mochila pequeña: ropa de recambio, cámara. |
+| 10:00 | **Run club** (~5 km suaves) + café de después: el mejor momento para hablar con gente. |
+| 11:30 | Ducha (alojamiento, gimnasio u hostel), recoger maletas. |
+| 12:30 | Comer y última vuelta por Gaia/Ribeira si hay tiempo → salida (al aeropuerto: metro línea E desde Bolhão/Trindade, ~35 min). |
 
 **🎓 Lo que aprendes hoy (cámara):** lleva la cámara al after-run, no durante.
 1. **Retratos de grupo** (pide permiso, siempre).
