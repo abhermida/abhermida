@@ -14,8 +14,9 @@ Regla de oro: **un equipo protagonista por día** y **3 planos por sitio** (gene
 | Hora | Plan |
 |---|---|
 | 13:00 | Aterrizas en OPO. |
-| 13:30 | **Comer en Matosinhos** (15 min en Uber/Bolt desde el aeropuerto). Es *la* zona de pescado y marisco a la brasa. Rua Heróis de França: **O Gaveto** o **Esplanada Marisqueira Antiga**. Pide pescado del día a la brasa. |
-| 15:00 | Uber a tu alojamiento junto al **Puente Luis I** (≈25 min). Check-in, dejas maletas y montas el equipo. |
+| 13:30 | **Metro línea E (violeta)** directo del aeropuerto a **Bolhão** (~35 min, sin transbordo). Billete Andante zona Z4; valídalo siempre. |
+| 14:10 | **Comer junto a Bolhão**: puestos del **Mercado do Bolhão**, **Casa Guedes** (sándwich de pernil con queso da Serra), **Conga** (bifanas) o **Café Santiago** (francesinha). |
+| 15:00 | Check-in junto al **Puente Luis I**. Desde Bolhão: a pie unos 8 min hasta Batalha y **Funicular dos Guindais** hasta la Ribeira, al pie del puente (cómodo con maleta). Si te alojas en el lado de Gaia: metro Bolhão → Trindade → línea D (amarilla) → **Jardim do Morro**. |
 | 16:00 | **Compras** (sube a pie o en el Funicular dos Guindais): **Rua das Flores** (tiendas pequeñas, conservas, diseño portugués) → **Mercado do Bolhão** → **Rua de Santa Catarina** + centro comercial **Via Catarina** (marcas grandes) → Café Majestic (solo para verlo, es caro). |
 | 17:00 | Cruza el puente por el tablero superior hacia **Jardim do Morro / Serra do Pilar** (Gaia). |
 | 17:15–18:00 | 🎥 **Sesión de trípode**: atardecer + hora azul sobre la Ribeira. |
